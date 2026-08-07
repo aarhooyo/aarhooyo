@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./Purple and Pink Minimalist Front-End Developer LinkedIn Banner.png" width="100%" alt="Omar Tood — MSc in Artificial Intelligence · AI Researcher · LLM Engineer" />
+<img src="./https://github.com/aarhooyo/aarhooyo/blob/b9da453bc49dc4eb39ed9e26611ee1cc569ec7b5/github.png" width="100%" alt="Omar Tood — MSc in Artificial Intelligence · AI Researcher · LLM Engineer" />
 
 
 <br/>
