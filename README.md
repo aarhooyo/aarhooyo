@@ -8,28 +8,9 @@
 
 ## ◇ About
 
-I'm **Abdulkadir Aarhooyo**  an full stack developer & AI engineer **Expert for web**. I build modern systems around **Large Language Models**, **agentic AI**, and **transformer architectures**, with a focus on bringing modern NLP to **low-resource languages like Somali**.
+I'm **Abdulkadir Aarhooyo**  an full stack developer & AI engineer **Expert for web**. I build modern systems 
 
 <br/>
-
-## ◇ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-8B5CF6?style=flat-square&logo=rust&logoColor=white)
-&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-06B6D4?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-06B6D4?style=flat-square&logo=huggingface&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-06B6D4?style=flat-square&logo=ollama&logoColor=white)
-&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-10B981?style=flat-square&logo=pinecone&logoColor=white)
-
-<br/>
-
-
-
-<div align="center">
-
 
 </div>
 
