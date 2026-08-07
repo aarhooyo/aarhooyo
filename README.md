@@ -32,7 +32,7 @@ Self-attention visualized over a Somali sentence — the kind of low-resource NL
 
 <div align="center">
 
-<img src="./svg/attention.svg" width="100%" alt="Self-attention arcs over the Somali sentence: Aniga waxaan baranayaa AI iyo Somali NLP — 'I am learning AI and Somali NLP'" />
+<img src="./svg.png" width="100%" alt="Self-attention arcs over the Somali sentence: Aniga waxaan baranayaa AI iyo Somali NLP — 'I am learning AI and Somali NLP'" />
 
 </div>
 
