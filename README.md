@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./github.png" width="100%" alt="Omar Tood — MSc in Artificial Intelligence · AI Researcher · LLM Engineer" />
+<img src="./svg.png" width="100%" alt="Omar Tood — MSc in Artificial Intelligence · AI Researcher · LLM Engineer" />
 
 
 <br/>
