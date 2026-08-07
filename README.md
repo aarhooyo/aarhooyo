@@ -8,7 +8,11 @@
 
 ## ◇ About
 
-I'm **Abdulkadir Aarhooyo**  an full stack developer & AI engineer **Expert for web**. I build modern systems 
+**Abdulkadir Aarhooyo** — Full Stack Developer & AI Engineer.
+
+Building modern web applications.
+
+**Next.js • Tailwind • Node.js • Python • SQL • Power BI**
 
 <br/>
 
