@@ -8,7 +8,7 @@
 
 ## ◇ About
 
-I'm **Omar Tood**  an Machine Learning Engineer & AI Researcher with an **MSc in Artificial Intelligence**. I build intelligent systems around **Large Language Models**, **agentic AI**, and **transformer architectures**, with a focus on bringing modern NLP to **low-resource languages like Somali**.
+I'm **Abdulkadir Aarhooyo**  an full stack developer & AI engineer **Expert for web**. I build modern systems around **Large Language Models**, **agentic AI**, and **transformer architectures**, with a focus on bringing modern NLP to **low-resource languages like Somali**.
 
 <br/>
 
