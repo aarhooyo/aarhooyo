@@ -26,13 +26,10 @@ I'm **Abdulkadir Aarhooyo**  an full stack developer & AI engineer **Expert for 
 
 <br/>
 
-## ◇ Self-Attention, in Somali
 
-Self-attention visualized over a Somali sentence — the kind of low-resource NLP I work on. Each query token lights up and weighs the rest of the sequence.
 
 <div align="center">
 
-<img src="./svg.png" width="100%" alt="Self-attention arcs over the Somali sentence: Aniga waxaan baranayaa AI iyo Somali NLP — 'I am learning AI and Somali NLP'" />
 
 </div>
 
